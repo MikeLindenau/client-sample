@@ -1,0 +1,25 @@
+{
+    "name": "client",
+    "description": "client",
+    "version": "0.0.1",
+    "author": "Rick Thomas",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/irickt/project.git"
+    },
+    "license": "MIT",
+    "private": true,
+    "dependencies": {
+        "underscore": ""
+    },
+    "devDependencies": {
+        "mkdirp": "",
+        "brfs": ""
+    },
+    "scripts": {
+        "test": "test/js/test-all.js"
+    },
+    "engines": {
+        "node": "0.10.x"
+    }
+}
